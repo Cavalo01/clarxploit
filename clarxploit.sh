@@ -18,4 +18,4 @@ do
     if [[ $input == $'\x0a' ]]; then
         continue
     fi
-done < passwordlist.txt
+done < wlist.txt
